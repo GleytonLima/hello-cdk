@@ -1,10 +1,8 @@
-# Welcome to your CDK TypeScript project!
+# Projeto Introdutório - AWS CDK - TypeScript
 
-This is a blank project for TypeScript development with CDK.
+Vídeo relacionado: https://youtu.be/gWKcBuq94bw
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-## Useful commands
+## Comandos úteis
 
  * `npm run build`   compile typescript to js
  * `npm run watch`   watch for changes and compile
